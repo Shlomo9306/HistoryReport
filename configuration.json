@@ -1,0 +1,16 @@
+{
+	"name": "HistoryReport",
+	"supportEmail": "support@geotab.com",
+	"version": "1.0",
+	"items": [
+		{
+			"icon": "",
+			"url": "historyReport.html",
+			"path": "MapLink/",
+			"menuName": {
+				"en": "History Report"
+			}
+		}
+	],
+	"isSigned": false
+}
